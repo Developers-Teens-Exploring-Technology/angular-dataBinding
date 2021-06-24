@@ -1,4 +1,7 @@
 # AngularProj
+This angular project goes over two way and one way data binding. 
+
+Please run  `npm i` before running `ng serve`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
